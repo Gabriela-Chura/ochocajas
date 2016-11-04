@@ -1,0 +1,32 @@
+/* Inserta tu CSS aqui */
+
+.uno, .dos, .tres, .cuatro, .cinco, .seis, .siete, .ocho {
+    height: 100px;
+    width: 100px;
+    background-color: dimgray;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.dos{
+    height: 105px;
+    width: 340px;
+    padding: 10px;
+    
+    
+}
+
+.tres, .cuatro, .cinco{
+    display: inline-block;
+      
+    
+}
+
+.tres, .cuatro {
+     margin-right: 10px;
+}
+
+.seis, .siete {
+    display: inline-block;
+    margin-right: 5px;
+}
